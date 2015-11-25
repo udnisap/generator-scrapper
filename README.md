@@ -1,4 +1,5 @@
-# generator-scraper [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# generator-scraper 
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > Generate a scraping project with webdriver.io
 
 ## Installation
@@ -13,12 +14,8 @@ npm install -g generator-scraper
 Then generate your new project:
 
 ```bash
-yo generator-scraper
+yo scraper
 ```
-
-## Getting To Know Yeoman
-
-Yeoman has a heart of gold. He&#39;s a person with feelings and opinions, but he&#39;s very easy to work with. If you think he&#39;s too opinionated, he can be easily convinced. Feel free to [learn more about him](http://yeoman.io/).
 
 ## License
 
